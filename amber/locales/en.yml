@@ -74,8 +74,7 @@ en:
   faircoin_description: "FairCoin is run by a non-profit network of radical activists, propagates the non-speculative values of the solidarity economy, and uses less electricity than other cryptocurrencies."
 
   bitcoincash: "Bitcoin Cash"
-  bitcoincash_description: |
-    Bitcoin Cash is a decentralized Peer-to-Peer Electronic Cash that is fast, reliable, and secure, with low fees.
+  bitcoincash_description: "Bitcoin Cash is a decentralized Peer-to-Peer Electronic Cash that is fast, reliable, and secure, with low fees."
   
   paypal: "Paypal"
   paypal_note: "Works from many countries."
